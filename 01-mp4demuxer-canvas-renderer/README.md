@@ -21,23 +21,14 @@ Marque esse projeto com uma estrela 🌟
 ## Checklist Features
 
 - Video Uploader
-  - [x] - Deve entender videos em formato MP4 mesmo se não estiverem fragmentados
-  - [x] - Deve processar itens em threads isoladas com Web Workers
-  - [x] - Deve converter fragmentos de videos em formato `144p`
-  - [x] - Deve renderizar frames em tempo real em elemento canvas
-  - [x] - Deve gerar arquivos WebM a partir de fragmentos
+  - [] - Deve entender videos em formato MP4 mesmo se não estiverem fragmentados
+  - [] - Deve processar itens em threads isoladas com Web Workers
+  - [] - Deve converter fragmentos de videos em formato `144p`
+  - [] - Deve renderizar frames em tempo real em elemento canvas
+  - [] - Deve gerar arquivos WebM a partir de fragmentos
 
 ### Desafios
-- [ ] - Encodar em 360p e 720p
-- [ ] - Fazer encoding/decoding track de áudio
-- [ ] - Fazer também upload de track de áudio
-- [ ] - Concatenar o arquivo final no servidor em um arquivo só
-- [ ] - Corrigir problema do Webm de não mostrar a duração do video
-- [ ] - Corrigir a responsividade do site
-- [ ] - Tentar usar outros muxers
-  - https://github.com/Vanilagy/webm-muxer
-  - https://github.com/Vanilagy/mp4-muxer
-
+- [] - TBD
 
 
 ### Links mostrados nos aulas:
